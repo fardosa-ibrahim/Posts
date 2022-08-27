@@ -2,7 +2,7 @@ package com.example.myposts
 
 data class Post(
     var userId:Int,
-    var Id:Int,
+    var id:Int,
     var tittle:String,
     var body:String
 )
